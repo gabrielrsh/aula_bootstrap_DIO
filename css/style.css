@@ -1,0 +1,11 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(111, 221, 0);
+}
+
+.quem-somos {
+    background-color: rgb(125, 125, 255);
+}
