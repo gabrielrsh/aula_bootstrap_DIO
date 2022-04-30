@@ -3,9 +3,21 @@ body {
 }
 
 .navbar {
-    background-color: rgb(111, 221, 0);
+    background-color: rgb(109, 255, 72);
 }
 
 .quem-somos {
+    background-color: rgb(125, 125, 255);
+}
+
+.parceiros {
+    background-color: rgb(71, 103, 151);
+}
+
+.img-parceiro {
+    border-radius: 10%;
+}
+
+.servicos {
     background-color: rgb(125, 125, 255);
 }
